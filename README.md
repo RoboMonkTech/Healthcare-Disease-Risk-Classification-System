@@ -90,9 +90,7 @@ This project applies Machine Learning techniques to classify patients into **Low
 
 **Vercel Link**
 
-https://your-vercel-link.vercel.app
-
-*(Replace this with your actual Vercel deployment URL.)*
+https://healthcare-disease-risk-classificat.vercel.app/
 
 ---
 
